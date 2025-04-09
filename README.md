@@ -10,4 +10,6 @@ https://github.com/Nykollas27/logica_inf./blob/fe16839d29bf5d57cdf34a0ffe72e2969
 
 ![image](https://github.com/user-attachments/assets/f667fa98-af3d-48f2-92ef-27e79139d703)
 
+![image](https://github.com/user-attachments/assets/4da4fc4b-8f3a-4761-beb3-93ea0fd2a7a3)
+
 
