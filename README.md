@@ -8,3 +8,4 @@ Aprendizado-informatica
 ## Segunda atividade:Usando fórmulas e dados abertos 
 https://github.com/Nykollas27/logica_inf./blob/fe16839d29bf5d57cdf34a0ffe72e296930e6afb/Analise_Alunos_Estrangeiros%20(version%202).xlsx
 
+
