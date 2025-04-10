@@ -13,6 +13,7 @@ https://github.com/Nykollas27/logica_inf./blob/fe16839d29bf5d57cdf34a0ffe72e2969
 ![image](https://github.com/user-attachments/assets/4da4fc4b-8f3a-4761-beb3-93ea0fd2a7a3)
 
 Power BI: Usando dados abertos
+https://github.com/Nykollas27/logica_inf./blob/13f1c0f08b0745808e897ff9d7b6b6cffa3586a9/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade%202023.pbix
 
 
 ##tercira atividade:Power BI, dados abertos e Github
