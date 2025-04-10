@@ -12,5 +12,5 @@ https://github.com/Nykollas27/logica_inf./blob/fe16839d29bf5d57cdf34a0ffe72e2969
 
 ![image](https://github.com/user-attachments/assets/4da4fc4b-8f3a-4761-beb3-93ea0fd2a7a3)
 
-
-
+##tercira atividade:Power BI, dados abertos e Github
+https://github.com/Nykollas27/logica_inf./blob/30b9aa185dd68a43890361b44fac76d27160627d/Gasto%20com%20sa%C3%BAde%20no%20brasil%20-2023%203.pbix
