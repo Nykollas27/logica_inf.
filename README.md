@@ -21,3 +21,5 @@ https://github.com/Nykollas27/logica_inf./blob/13f1c0f08b0745808e897ff9d7b6b6cff
 
 https://1drv.ms/x/c/ea80faa5090b8586/ETRHlkiv1NlBmPWjLvLQKsABQpi0y-RQqHXsXl7zLR8_Rw?e=qLIv2X&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMjAwLTAwMDAwMDAwMDAwMH0
 
+![WhatsApp Image 2025-06-06 at 23 32 28 (1)](https://github.com/user-attachments/assets/7e38dac6-d368-4e53-9788-2c6fff7b73f6)
+
