@@ -25,3 +25,5 @@ https://1drv.ms/x/c/ea80faa5090b8586/ETRHlkiv1NlBmPWjLvLQKsABQpi0y-RQqHXsXl7zLR8
 
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/nykollas_martins_fatec_sp_gov_br/Documents/Acidente%20Rio%20.pbix?csf=1&web=1&e=fXzNEp
 
+![WhatsApp Image 2025-06-06 at 23 32 03 (1)](https://github.com/user-attachments/assets/ec6488d4-e10e-412a-8212-54546a5278f1)
+
