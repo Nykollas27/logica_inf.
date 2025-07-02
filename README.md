@@ -27,7 +27,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/nykollas_martins_fatec_sp_go
 
 ![WhatsApp Image 2025-06-06 at 23 32 03 (1)](https://github.com/user-attachments/assets/ec6488d4-e10e-412a-8212-54546a5278f1)
 
-## Projeto 1: Venda de Sorvete
+
 
 
 
