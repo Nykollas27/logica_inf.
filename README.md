@@ -37,7 +37,7 @@ perguntas: Os dois modelos são iguais? Não são iguais Explique se houver dife
 ![Captura de tela 2025-07-02 210442](https://github.com/user-attachments/assets/b11c941f-ed59-4366-807f-6ba90ab2daa4)
 ![Captura de tela 2025-07-02 210501](https://github.com/user-attachments/assets/c2c4a070-4d03-47f1-b66e-ad31a8f29d5a)
 
-##TIVIDADDE:CASA 
+## ATIVIDADDE:CASA 
 não foi gerado o grafico da regressão linear, mas teve resultado positivo nas outras etapas
 
 ![Captura de tela 2025-07-03 183625](https://github.com/user-attachments/assets/8a66e937-7502-4d4d-8bc5-9efa8a182ecf)
@@ -46,8 +46,10 @@ não foi gerado o grafico da regressão linear, mas teve resultado positivo nas 
 ![Captura de tela 2025-07-03 183756](https://github.com/user-attachments/assets/234f0863-7b0e-4d40-ab38-cb4f4a11b985)
 ![Captura de tela 2025-07-03 183811](https://github.com/user-attachments/assets/e2b4e14e-ca20-4a6a-9839-bca5c3ed5c00)
 
+## ATIVIDADE: Produtos A e B, Sorvete e Peças de computador 
 
+![Captura de tela 2025-07-03 185200](https://github.com/user-attachments/assets/de77f93c-59be-4f39-8545-1bd0ef27cc96)
 
-
+## ATIVIDADE POWER APPS E POWER AUTOMATE 
 
 
