@@ -27,7 +27,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/nykollas_martins_fatec_sp_go
 
 ![WhatsApp Image 2025-06-06 at 23 32 03 (1)](https://github.com/user-attachments/assets/ec6488d4-e10e-412a-8212-54546a5278f1)
 
-## QUARTA ATIVIDADE: CERVERJA 
+## QUARTA ATIVIDADE: CERVEJA 
 perguntas: Os dois modelos são iguais? Não são iguais Explique se houver diferenças e o motivo de elas existirem? a regressão linear esta diferente, pois o modelo do senhor Ivanildo Batista esta mais completo que meu modelo Qual modelo você usaria? eu usaria do senhor Ivanildo Batista Por quê? este modelo tem mais informações que o meu modelo
 
 ![Captura de tela 2025-07-02 210311](https://github.com/user-attachments/assets/c605afb2-aa7d-4dc9-bbcd-dd5bdfb5858f)
