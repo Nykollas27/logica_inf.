@@ -27,6 +27,20 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/nykollas_martins_fatec_sp_go
 
 ![WhatsApp Image 2025-06-06 at 23 32 03 (1)](https://github.com/user-attachments/assets/ec6488d4-e10e-412a-8212-54546a5278f1)
 
+## QUARTA ATIVIDADE: CERVERJA 
+perguntas: Os dois modelos são iguais? Não são iguais Explique se houver diferenças e o motivo de elas existirem? a regressão linear esta diferente, pois o modelo do senhor Ivanildo Batista esta mais completo que meu modelo Qual modelo você usaria? eu usaria do senhor Ivanildo Batista Por quê? este modelo tem mais informações que o meu modelo
+
+![Captura de tela 2025-07-02 210311](https://github.com/user-attachments/assets/c605afb2-aa7d-4dc9-bbcd-dd5bdfb5858f)
+![Captura de tela 2025-07-02 210332](https://github.com/user-attachments/assets/b94f4724-e1fa-408a-96c0-0610661cedce)
+![Captura de tela 2025-07-02 210348](https://github.com/user-attachments/assets/a6899c58-b6ce-4909-abea-7eb212dae378)
+![Captura de tela 2025-07-02 210421](https://github.com/user-attachments/assets/5b4ebc2b-2469-41cf-8a21-a7d8565908b4)
+![Captura de tela 2025-07-02 210442](https://github.com/user-attachments/assets/b11c941f-ed59-4366-807f-6ba90ab2daa4)
+![Captura de tela 2025-07-02 210501](https://github.com/user-attachments/assets/c2c4a070-4d03-47f1-b66e-ad31a8f29d5a)
+
+##TIVIDADDE:CASA 
+não foi gerado o grafico da regressão linear, mas teve resultado positivo nas outras etapas
+
+
 
 
 
