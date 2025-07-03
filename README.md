@@ -40,6 +40,11 @@ perguntas: Os dois modelos são iguais? Não são iguais Explique se houver dife
 ##TIVIDADDE:CASA 
 não foi gerado o grafico da regressão linear, mas teve resultado positivo nas outras etapas
 
+![Captura de tela 2025-07-03 183625](https://github.com/user-attachments/assets/8a66e937-7502-4d4d-8bc5-9efa8a182ecf)
+![Captura de tela 2025-07-03 183656](https://github.com/user-attachments/assets/41e3aaa7-512e-424f-94ff-26bd62483eb4)
+![Captura de tela 2025-07-03 183714](https://github.com/user-attachments/assets/cc0e4f0a-e3d6-43c9-b162-df3bac097cf3)
+![Captura de tela 2025-07-03 183756](https://github.com/user-attachments/assets/234f0863-7b0e-4d40-ab38-cb4f4a11b985)
+![Captura de tela 2025-07-03 183811](https://github.com/user-attachments/assets/e2b4e14e-ca20-4a6a-9839-bca5c3ed5c00)
 
 
 
