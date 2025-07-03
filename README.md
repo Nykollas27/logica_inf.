@@ -52,4 +52,4 @@ não foi gerado o grafico da regressão linear, mas teve resultado positivo nas 
 
 ## ATIVIDADE POWER APPS E POWER AUTOMATE 
 
-
+https://fatecspgov-my.sharepoint.com/:v:/r/personal/nykollas_martins_fatec_sp_gov_br/Documents/power%20apps%202025-07-02%20203608.mp4?csf=1&web=1&e=h6AKVM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
